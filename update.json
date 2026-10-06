@@ -6,7 +6,7 @@
   "title": "Creative Systems Billing Basic v1.0.2 TEST",
   "releaseNotes": "Updater final verification build. Tests clean exit, secure download, SHA-256 verification and in-place upgrade.",
   "installerUrl": "https://github.com/CreativeSystems-DPI/creative-systems-billing-updates/releases/download/v1.0.2-test/CreativeSystemsBillingBasic_Setup_1.0.2_TEST.exe",
-  "sha256": "cff0bdea82ef97f96d4e39ebafc174198bc00e5fa0c4caa316b47688726ca6d2",
+  "sha256": "0a51223fa61ac5275f183d1d10de27eb4fe2bb1a9418fea167360c639beb8f2b",
   "mandatory": false,
   "publishedAt": "2026-10-06"
 }
