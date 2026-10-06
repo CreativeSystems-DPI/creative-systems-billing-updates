@@ -1,0 +1,12 @@
+{
+  "product": "Creative Systems Software - Billing Basic",
+  "edition": "Basic",
+  "channel": "stable",
+  "version": "1.0.0",
+  "title": "Creative Systems Billing Basic v1.0.0 RC1",
+  "releaseNotes": "First release candidate for Creative Systems Billing Basic.",
+  "installerUrl": "https://github.com/CreativeSystems-DPI/creative-systems-billing-updates/releases/download/v1.0.0-rc1/CreativeSystemsBillingBasic_Setup_RC1.exe",
+  "sha256": "228AB63E08E92D79E8DD2B81D1496EDC40DD80B34B6338773B4AF026F16664E4",
+  "mandatory": false,
+  "publishedAt": "2026-10-06"
+}
