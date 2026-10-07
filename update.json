@@ -2,11 +2,11 @@
   "product": "Creative Systems Software - Billing Basic",
   "edition": "Basic",
   "channel": "stable",
-  "version": "1.0.2",
-  "title": "Creative Systems Billing Basic v1.0.2 TEST",
-  "releaseNotes": "Updater final verification build. Tests clean exit, secure download, SHA-256 verification and in-place upgrade.",
-  "installerUrl": "https://github.com/CreativeSystems-DPI/creative-systems-billing-updates/releases/download/v1.0.2-test/CreativeSystemsBillingBasic_Setup_1.0.2_TEST.exe",
-  "sha256": "0a51223fa61ac5275f183d1d10de27eb4fe2bb1a9418fea167360c639beb8f2b",
+  "version": "1.0.3",
+  "title": "Creative Systems Billing Basic v1.0.3",
+  "releaseNotes": "Stable production release with secure automatic updates, SHA-256 verification, clean application exit, in-place upgrade, and preservation of customer database, license, branding and backups.",
+  "installerUrl": "https://github.com/CreativeSystems-DPI/creative-systems-billing-updates/releases/download/v1.0.3/CreativeSystemsBillingBasic_Setup_1.0.3.exe",
+  "sha256": "ec5a77fd87aecdc07105ac8942e37b4fa4e866e0657595d6cc6132e39cb6a349",
   "mandatory": false,
-  "publishedAt": "2026-10-06"
+  "publishedAt": "2026-10-07"
 }
